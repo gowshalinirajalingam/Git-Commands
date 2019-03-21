@@ -2,8 +2,8 @@
 create a blank repository
 open a terminal inside the folder u want to push
 $git init
-$git config --global user.name "Sam Smith"
-$git config --global user.email sam@example.com
+$git config --global user.name "gowshalinirajalingam"
+$git config --global user.email gowshalinirajalingam@gmail.com
 $git add .
 $git commit -m "sdfsdf"
 $git remote add origin https://github.com/gowshalinirajalingam/repo-name.git
