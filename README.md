@@ -24,4 +24,7 @@ $ git checkout <feature_branch>
 #Confirm you are now working on that branch: 
 $ git branch.
 
+#Delete brance from origin
+git push <remote_name> --delete <branch_name>
+
 
