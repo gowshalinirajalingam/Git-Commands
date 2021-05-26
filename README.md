@@ -15,12 +15,18 @@ $git remote -v
 #change the origin repository that has been set to the local git folder
 $git remote set-url origin https://github.com/gowshalinirajalingam/repo-name.git
 
+#create branch in terminal
+$gi branch <branch name>
+  
 #list all branches
 $git branch -a
 
 #Checkout the branch you want to use. 
 $ git checkout <feature_branch>
 
+#push in branch
+$ git push -u origin <branch name>
+  
 #Confirm you are now working on that branch: 
 $ git branch.
 
